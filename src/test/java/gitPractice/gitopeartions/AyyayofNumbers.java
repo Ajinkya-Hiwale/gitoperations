@@ -24,6 +24,7 @@ public class AyyayofNumbers {
 			}
 			
 		}
+		System.out.println("program finished");
 		
 		
 	}
