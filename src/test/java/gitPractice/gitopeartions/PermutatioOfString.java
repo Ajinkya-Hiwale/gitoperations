@@ -30,7 +30,7 @@ public class PermutatioOfString {
 				
 
 			}
-			System.out.println(temp+temp1);
+			//System.out.println(temp+temp1);
 			System.out.println(temp+temp1.reverse());
 
 		}
