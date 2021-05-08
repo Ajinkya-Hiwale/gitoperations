@@ -9,8 +9,8 @@ public class testing {
 
 
 
-		System.out.println(2010);
-		System.out.print(2010);
+		System.out.println("dfdfdfdfsxcdsds");
+		System.out.print("dffdfdfdf");
 
 
 
