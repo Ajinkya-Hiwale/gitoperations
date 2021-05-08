@@ -9,12 +9,7 @@ public class testing {
 
 
 
-		System.out.println("dsdqqqqqqq");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		
+
 		System.out.print("dksjdkwsidhiabsdiba");
 		System.out.print("dksjdkwsidhiabsdiba");
 		System.out.print("dksjdkwsidhiabsdiba");
@@ -22,15 +17,8 @@ public class testing {
 		System.out.print("dksjdkwsidhiabsdiba");
 		System.out.print("dksjdkwsidhiabsdiba");
 		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
-		System.out.print("dksjdkwsidhiabsdiba");
+
+
 
 
 		
