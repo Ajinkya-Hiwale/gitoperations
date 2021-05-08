@@ -7,8 +7,8 @@ public class testing {
 		
 
 
-		System.out.println(20/10);
-		System.out.print(20/10);
+		System.out.println();
+		System.out.print();
 
 
 	}
