@@ -9,8 +9,8 @@ public class testing {
 
 
 
-		System.out.println(1000);
-		System.out.print(1000);
+		System.out.println("dsdqqqqqqq");
+		System.out.print("dksjdkwsidhiabsdiba");
 
 
 
