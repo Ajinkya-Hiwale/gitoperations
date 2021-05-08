@@ -8,8 +8,10 @@ public class testing {
 
 
 
-		System.out.println(2033333%10);
-		System.out.print(33330);
+
+		System.out.println(2010);
+		System.out.print(2010);
+
 
 
 
